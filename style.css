@@ -50,6 +50,10 @@ nav ul li a{
 }
 
 @media (max-width:600px){
+  .menu-icon{
+    display: block;
+  }
+  
   nav ul{
     position: absolute;
     top: 70px;
@@ -63,9 +67,6 @@ nav ul li a{
   }
   nav ul li{
     padding: 20px;
-  }
-  .menu-icon{
-    display: block;
   }
   #menuList{
     transition: all 0.5s;
