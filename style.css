@@ -52,7 +52,7 @@ nav ul li a{
 @media (max-width:600px){
   nav ul{
     position: absolute;
-    TOP: 70px;
+    Top: 70px;
     left: 0;
     right: 0;
     flex-direction: column;
